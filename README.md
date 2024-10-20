@@ -1,6 +1,8 @@
-# Svelte Starter
+# Svelte Starter 4
 
-This [starter template](https://github.com/the-pudding/svelte-starter) aims to quickly scaffold a [SvelteKit](https://kit.svelte.dev/) project, designed around data-driven, visual stories at [The Pudding](https://pudding.cool).
+**NOTE**: This is no longer maintained. It uses Svelte 4. For Svelte 5, use the active [starter template](https://github.com/the-pudding/svelte-starter-4).
+
+This [starter template](https://github.com/the-pudding/svelte-starter-4) aims to quickly scaffold a [SvelteKit](https://kit.svelte.dev/) project, designed around data-driven, visual stories at [The Pudding](https://pudding.cool).
 
 ### Notes
 * _Do not use or reproduce The Pudding logos or fonts without written permission._
@@ -17,7 +19,7 @@ This [starter template](https://github.com/the-pudding/svelte-starter) aims to q
 ## Quickstart
 #### From Scratch
 * Click the green `Use this template` button above.
-* Alternatively: `npx degit the-pudding/svelte-starter my-project`
+* Alternatively: `npx degit the-pudding/svelte-starter-4 my-project`
 
 #### Pre-existing Project
 * clone the repo
