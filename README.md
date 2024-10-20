@@ -1,6 +1,6 @@
 # Svelte Starter 4
 
-**NOTE**: This is no longer maintained. It uses Svelte 4. For Svelte 5, use the active [starter template](https://github.com/the-pudding/svelte-starter-4).
+**NOTE**: This is no longer maintained. It uses Svelte 4. For Svelte 5, use the active [starter template](https://github.com/the-pudding/svelte-starter).
 
 This [starter template](https://github.com/the-pudding/svelte-starter-4) aims to quickly scaffold a [SvelteKit](https://kit.svelte.dev/) project, designed around data-driven, visual stories at [The Pudding](https://pudding.cool).
 
